@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "921358123239",
+    "project_id": "hiichat-d6b90",
+    "storage_bucket": "hiichat-d6b90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921358123239:android:bcf3c7c960116cfc07e242",
+        "android_client_info": {
+          "package_name": "com.himanshuSha.hii_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnOpmKBixB0QiMwhcrBZ2AUJU-WLBO9vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
