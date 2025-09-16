@@ -33,9 +33,4 @@
 <li>And Much More....
 </ul>
   
-<b>Watch Full Playlist on Youtube:</b>
-  https://youtube.com/playlist?list=PL8kbUJtS6hyal7Uw7wTeYmv7yiNPH5kOq
-  <br>
-<!--  <b>Note:</b> This Project is Much More Improved (i.e. Contains New Features) & Optimized than Youtube Course Project. -->
-For Feedback or Suggestions Mail Me At rajpurohitharsh2020@gmail.com 🙂
 
